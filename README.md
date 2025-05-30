@@ -25,31 +25,3 @@ Basis pengetahuan dalam program ini berisi aturan-aturan yang digunakan untuk me
 Siapkan XAMPP/Laragon terlebih dahulu untuk memulai server PHP dan MySQL.
 Pastikan juga kamu sudah menginstall git sebelum melakukan clone untuk repositori seperti berikut:
 
-```bash
-git clone https://github.com/joenior/kumaphone
-```
-Lalu tempatkan folder kumaphone pada folder htdocs jika menggunakan XAMPP, atau folder www jika menggunakan Laragon.
-
-Setelah itu, buatlah database dengan nama 'sbp' lalu import file db_sbp.sql ke database MySQL.
-
-## 💻 Screenshots
-Light mode (System adaptive)
-![Light](https://i.ibb.co/4RKJ5cy/Kumaphone-Personal-Microsoft-Edge-Canary-b1.png)
-
-Dark mode
-![App Screenshot](https://i.ibb.co/HVBpdh2/Kumaphone-Personal-Microsoft-Edge-Canary-1-b1.png)
-## 📑 License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-## 😎 Demo
-
-
-[Preview](https://kumaphone.my.id)
-[Hosted by IjulHost]
-
-## 🤔 Support
-
-Jika perlu bantuan, silahkan hubungi melalui [telegram](t.me/joenior)
-
